@@ -15,9 +15,6 @@ $conn = new mysqli($servername, $username, $password, $database);
     }
 
     // Conexão bem sucedida
-    echo "Conexão bem sucedida com o banco de dados.";
-
-// Encerra a conexão
-$conn->close();
+    echo "";
 
 ?>

@@ -11,10 +11,10 @@
     <div class="container">
         <h1>Biblioteca Pessoal</h1>
         <form action="valida_login.php" method="POST">
-            <label for="email">E-mail:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="senha">Senha:</label>
-            <input type="password" id="senha" name="senha" required>
+            <label for="iemail">E-mail:</label>
+            <input type="email" id="iemail" name="email" required>
+            <label for="isenha">Senha:</label>
+            <input type="password" id="isenha" name="senha" required>
             <button type="submit">Entrar</button>
         </form>
     </div>
